@@ -1,3 +1,4 @@
+- <img src ="Jesse12.jpg">
 - 👋 Hi, I’m Jessesam17
 - 👀 I’m interested in programming, Data science and Data Engineering
 - 🌱 I’m currently learning programming, Data science with Python and Data Engineering
